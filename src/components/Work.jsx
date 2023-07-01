@@ -31,8 +31,8 @@ const Work = () => {
               <div className="opacity-0 group-hover:opacity-100 ">
                 <span className="text-2xl font bold text-white tracking-wider ">
                   {/* {item.name} */}
-                  <div class="flex flex-col items-center pb-10">
-                    <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">{item.name} </h5>
+                  <div className="flex flex-col items-center pb-10">
+                    <h5 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">{item.name} </h5>
                   </div>
                 </span>
                 <div className="text-center space-x-3">
