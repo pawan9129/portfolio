@@ -85,7 +85,7 @@ const Contact = () => {
               </div>
               <div className="w-full px-4 lg:w-1/2 xl:w-5/12">
                 <div className="relative p-8 bg-white rounded-lg shadow-lg sm:p-12">
-                  <form>
+                  <form action="https://getform.io/f/6f170b98-446b-44e5-9b36-85bfcf8ba769" method="POST">
                     <ContactInputBox
                       type="text"
                       name="name"
@@ -109,7 +109,7 @@ const Contact = () => {
                     />
                     <div>
                      
-                      <button type='button' className=' bg-blue-500 rounded-lg text-white  hover:bg-[#94A9FB] hover:border-[#94A9FB] hover:text-white my-8 py-2 px-4 mx-auto flex items-center '>Let's Collaborate</button>
+                      <button type='submit' className=' bg-blue-500 rounded-lg text-white  hover:bg-[#94A9FB] hover:border-[#94A9FB] hover:text-white my-8 py-2 px-4 mx-auto flex items-center '>Let's Collaborate</button>
                     </div>
                   </form>
                 </div>
